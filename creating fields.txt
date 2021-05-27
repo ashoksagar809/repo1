@@ -1,5 +1,5 @@
 <html>
-<body>
+<body bg color="red">
 <input type="text" placeholder="Name" required>*
 <br><br>
 <input type="text" placeholder="Father/Mother Name" required>*
