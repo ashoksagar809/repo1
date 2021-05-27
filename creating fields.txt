@@ -1,0 +1,21 @@
+<html>
+<body>
+<input type="text" placeholder="Name" required>*
+<br><br>
+<input type="text" placeholder="Father/Mother Name" required>*
+<br><br>
+<input type="number" placeholder="age">
+<br><br>
+<input type="date" placeholder="DOB" required>*
+<br><br>
+<input type="radio" name="A">Male
+<input type="radio" name="A">Female
+<input type="radio" name="A">Other
+<input type="text" placeholder="course" required>*
+<br><br>
+<input type="number" placeholder="timing" required>*
+<br><br>
+<input type="number" placeholder="Cell no" required>*
+<br><br>
+<input type="text" placeholder="email" required>*
+<br><br>
